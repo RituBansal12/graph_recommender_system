@@ -1,1 +1,1 @@
-# LLM_recommender
+# Knowledge Graph based recommender system
